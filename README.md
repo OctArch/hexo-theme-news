@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Fluid Logo" src="https://raw.githubusercontent.com/ImJingLan/hexo-theme-newsroom/main/source/img/logo.jpg" width="128">
+  <img alt="Logo" src="https://raw.githubusercontent.com/ImJingLan/hexo-theme-newsroom/main/source/img/logo.jpg" width="128">
 </p>
 
 <p align="center">一款扁平风格的主题</p>
@@ -17,7 +17,7 @@
 <p align="center">中文简体
 
 <p align="center">
-  <span>文档：</span>代写
+  <span>文档：</span>待写
 </p>
 
 <p align="center">
